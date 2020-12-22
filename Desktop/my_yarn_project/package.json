@@ -1,0 +1,19 @@
+{
+  "name": "my_yarn_project",
+  "version": "1.0.0",
+  "description": "trying yarn",
+  "main": "index.js",
+  "author": "Serge",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "dependencies": {
+    "@babel/preset-react": "^7.12.10",
+    "webpack": "^5.11.0"
+  }
+}
